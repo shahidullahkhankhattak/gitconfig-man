@@ -1,0 +1,9 @@
+coverage/
+.github/
+*.test.js
+__tests__/
+.env
+.DS_Store
+.vscode/
+.idea/
+
