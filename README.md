@@ -2,26 +2,27 @@ gitconfig-man
 =============
 
 <!-- Build & Test Status -->
-[![Build Status](https://github.com/yourusername/gitconfig-man/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/yourusername/gitconfig-man/actions/workflows/ci.yml)
-[![Tests](https://img.shields.io/github/actions/workflow/status/yourusername/gitconfig-man/ci.yml?branch=master&label=tests&logo=github)](https://github.com/yourusername/gitconfig-man/actions/workflows/ci.yml)
+[![Build Status](https://github.com/shahidullahkhankhattak/gitconfig-man/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/shahidullahkhankhattak/gitconfig-man/actions/workflows/ci.yml)
+[![Tests](https://img.shields.io/github/actions/workflow/status/shahidullahkhankhattak/gitconfig-man/ci.yml?branch=master&label=tests&logo=github)](https://github.com/shahidullahkhankhattak/gitconfig-man/actions/workflows/ci.yml)
 ![Test Coverage](https://img.shields.io/badge/coverage-19.2%25-yellow)
 ![Tests Passing](https://img.shields.io/badge/tests-19%20passing-brightgreen)
 
 <!-- Package Info -->
-[![npm version](https://img.shields.io/npm/v/gitconfig-man.svg?logo=npm&color=cb3837)](https://www.npmjs.com/package/gitconfig-man)
+[![npm version](https://img.shields.io/npm/v/
+.svg?logo=npm&color=cb3837)](https://www.npmjs.com/package/gitconfig-man)
 [![npm downloads](https://img.shields.io/npm/dm/gitconfig-man.svg?logo=npm)](https://www.npmjs.com/package/gitconfig-man)
 ![Node Version](https://img.shields.io/badge/node-%3E%3D16.0.0-brightgreen?logo=node.js)
 
 <!-- Platform & Standards -->
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
-[![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/yourusername/gitconfig-man/graphs/commit-activity)
+[![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/shahidullahkhankhattak/gitconfig-man/graphs/commit-activity)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 <!-- Repository Stats (activate after first push) -->
-[![Last Commit](https://img.shields.io/github/last-commit/yourusername/gitconfig-man?logo=github)](https://github.com/yourusername/gitconfig-man/commits)
-[![Issues](https://img.shields.io/github/issues/yourusername/gitconfig-man?logo=github)](https://github.com/yourusername/gitconfig-man/issues)
-[![Pull Requests](https://img.shields.io/github/issues-pr/yourusername/gitconfig-man?logo=github)](https://github.com/yourusername/gitconfig-man/pulls)
-[![Stars](https://img.shields.io/github/stars/yourusername/gitconfig-man?style=social)](https://github.com/yourusername/gitconfig-man/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/shahidullahkhankhattak/gitconfig-man?logo=github)](https://github.com/shahidullahkhankhattak/gitconfig-man/commits)
+[![Issues](https://img.shields.io/github/issues/shahidullahkhankhattak/gitconfig-man?logo=github)](https://github.com/shahidullahkhankhattak/gitconfig-man/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/shahidullahkhankhattak/gitconfig-man?logo=github)](https://github.com/shahidullahkhankhattak/gitconfig-man/pulls)
+[![Stars](https://img.shields.io/github/stars/shahidullahkhankhattak/gitconfig-man?style=social)](https://github.com/shahidullahkhankhattak/gitconfig-man/stargazers)
 
 A sophisticated CLI tool to manage multiple git config profiles and switch between different git configurations with ease & grace.
 
@@ -29,7 +30,7 @@ A sophisticated CLI tool to manage multiple git config profiles and switch betwe
 
 | Workflow | Status |
 |----------|--------|
-| **Build & Test** | [![CI](https://github.com/yourusername/gitconfig-man/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/gitconfig-man/actions/workflows/ci.yml) |
+| **Build & Test** | [![CI](https://github.com/shahidullahkhankhattak/gitconfig-man/actions/workflows/ci.yml/badge.svg)](https://github.com/shahidullahkhankhattak/gitconfig-man/actions/workflows/ci.yml) |
 | **Test Coverage** | ![Coverage](https://img.shields.io/badge/coverage-19.2%25-yellow) |
 | **NPM Publish** | ![Publish](https://img.shields.io/badge/publish-ready-blue) |
 
@@ -303,7 +304,13 @@ ISC, a permissive free software license published by the Internet Software Conso
 - All git config changes are saved automatically when switching profiles
 - Profile files are stored in `~/.gitconfigman/` directory
 
+## Contact
+-------
+
+* GitHub ([shahidullahkhankhattak](http://github.com/shahidullahkhankhattak))
+* Email ([shahid@shahidullahkhan.com](mailto:shahid@shahidullahkhan.com))
+
 ---
 
-Made with ❤️ for developers who manage multiple git identities.
+Made with ❤️ for developers who manage multiple git identities by Shahid Ullah Khan from Pakistan.
 
