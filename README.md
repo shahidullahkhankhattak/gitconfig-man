@@ -34,8 +34,6 @@ A sophisticated CLI tool to manage multiple git config profiles and switch betwe
 | **Test Coverage** | ![Coverage](https://img.shields.io/badge/coverage-19.2%25-yellow) |
 | **NPM Publish** | ![Publish](https://img.shields.io/badge/publish-ready-blue) |
 
-> 📊 **Note:** Some badges will activate after first push to GitHub. GitHub Actions badges will work after setting up CI/CD workflows.
-
 ### Platform Support
 
 Tests run automatically on:
