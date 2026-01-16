@@ -1,6 +1,6 @@
 {
   "name": "gitconfig-man",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A cli tool to manage multiple git config profiles and switch between different git configurations with ease & grace.",
   "main": "index.js",
   "bin": "index.js",
